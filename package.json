@@ -1,0 +1,30 @@
+{
+  "name": "spik-app",
+  "version": "1.0.0",
+  "description": "SPIK APP is built to end bullies, here you connect to people who are ready to help, support and fight to bring back our community to peace, love and unity... ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edekeemmanuel/spikapp"
+  },
+  "author": "Team 20",
+  "license": "MIT",
+  "homepage": "",
+  "keywords": [
+    "api",
+    "routers"
+  ],
+  "contributors": [
+    {
+      "name": "Edeke Emmanuel",
+      "email": "edekechinedu@gmail.com"
+    },
+    {
+      "name": "Opara Nnadozie",
+      "email": "nnadozieopara@yahoo.com"
+    }
+  ],
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
