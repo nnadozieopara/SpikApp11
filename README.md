@@ -1,2 +1,2 @@
 # spik-app
-Spikapp is a platform to build the world in peace, love and unity. It is to put to an end to bullies #saynotobullies...
+Spik-App is an anti-bullying app that provides students with an opportunity to report bullies in school or campuses while keeping them anonymous. <{Speak up and save a life}>
