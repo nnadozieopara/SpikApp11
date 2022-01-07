@@ -1,4 +1,7 @@
 node_modules
 .env
 .history
-yarn.lock
+yarn
+yarn-error
+logs
+20220107-0000-01-logs.txt
