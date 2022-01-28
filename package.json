@@ -2,7 +2,11 @@
   "name": "spik-app",
   "version": "1.0.0",
   "description": "SPIK APP is built to end bullies, here you connect to people who are ready to help, support and fight to bring back our community to peace, love and unity... ",
-  "main": "index.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/edekeemmanuel/spik-app"
@@ -27,6 +31,8 @@
   "dependencies": {
     "axois": "^0.0.1-security",
     "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cloudinary": "^1.28.1",
     "consola": "^2.15.3",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",

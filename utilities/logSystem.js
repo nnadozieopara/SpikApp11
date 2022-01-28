@@ -31,4 +31,4 @@ console.log(next);
 
 };
 
-module.exports = LogMorgan;
+module.exports = {LogMorgan};

@@ -16,5 +16,16 @@ module.exports = {
     'size': process.env.LOG_SIZE || '10M',
     'interval': process.env.LOG_INTERVAL || '1d',
     'compress': process.env.LOG_COMPRESS || 'gzip',
-    'format': process.env.LOG_FORMAT || 'combined'
+    'format': process.env.LOG_FORMAT || 'combined',
+
+    //cloudinary
+    'cloudinaryCloudName' : process.env.cloudName,
+    'cloudinaryApiKey' : process.env.api_key,
+    'CloudinaryApiSecret': process.env.api_secret,
+    'cloudinarySecure' : process.env.secure,
+
+    //mail details
+    'gmailUser': process.env.gmailUser,
+    'gmailSecret': process.env.gmailSecret
+
 };
